@@ -9,3 +9,6 @@
 int a = 10;
 printf("%d",a);
 ```
+- [ ] list 1;
+- [ ] list 2;
+- [x] yes.
